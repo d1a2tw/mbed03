@@ -16,7 +16,7 @@ int main(){
 
     Aout = ADCdata;
 
-    wait(2);
+    wait(0.002);
 
   }
 
